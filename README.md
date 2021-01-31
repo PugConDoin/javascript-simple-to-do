@@ -5,7 +5,7 @@ This simple application is written using vanilla JavaScript:
 - It serves as an exercise in event handling.
 - No attention is given to styling with CSS.
 - There is no persistent data storage.
-  -There is no use of local storage.
+- There is no use of local storage.
 
 ## Notes About Persistent Data and Real-World Application
 
